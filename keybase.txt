@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/oliy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://oliyy.github.io
+  * I am oliy (https://keybase.io/oliy) on keybase.
+  * I have a public key with fingerprint 0F8A 1F31 D19B 1E41 9586  3BB6 50A4 CF44 6B1C B90B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101bce689bd0ebc7df89e0f78ba9ec69c2f66b359fd938ff23469e4d7f498cc78200a",
+            "fingerprint": "0f8a1f31d19b1e4195863bb650a4cf446b1cb90b",
+            "host": "keybase.io",
+            "key_id": "50a4cf446b1cb90b",
+            "kid": "0101bce689bd0ebc7df89e0f78ba9ec69c2f66b359fd938ff23469e4d7f498cc78200a",
+            "uid": "8f2273c1151316b2862f631f62493d19",
+            "username": "oliy"
+        },
+        "service": {
+            "hostname": "oliyy.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486503770,
+    "expire_in": 157680000,
+    "prev": "cf4fd3d3a0e9d94761f783b3041a7fee7736bf44c30bcf8bec4e3b484b86819e",
+    "seqno": 21,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJbSBRRGF4r07ZMy4rQChpDKsTmzJmdObNQSUFXKSpCs8syZ+ac3bFt
+Z5ud3drUIEUqoptZC3YBu8F2wSD2IalMKwvUiCKSbpg99FBG1IMiPXTGCnrosfNy
+OP//fd/5v4//QdZolztNb93UWbptAk7rak9EXeVNiyuqOGzqcc5bxW0nIxcJ6iRi
++7YbOufleMADrBEJKVjnCdZknSKF8FRGWFWIJimaQCUJQ49CdQUiSgUoSgoRdZmK
+CtI0GQk8r3JFHDVCfmKFLSNkO7IUqYBCoAMFAyICxYMkiLHk4VVRo6IoYaBhhceM
+GDAjDoMNh9UIKTZMVmMP38h4/8D/57mjI3KICoIMNQA8AAIJC0hidAioJIgKZCYc
+YIRYIXUHYWgzaMS5miKOVWKGRpxQHRd/dePFfsMORPEvO2HLtE3NDLJmwLbDEa9D
+tuNhB72LYN9vHR82QjqLkTFixIoYZojzAobUbMMRBiJi+UFZ5os4sjtsWMRnOAiP
+LCGeHecfEmOSLDCqQx2qPFF0RZQlwGKBGPIiUGVKiCxDCbNQNchjjSJMNJFALCIR
+IwkBhXCOs50hk/MKgM2p+plmxPCHVDtqEa6m496WMa40t2ts+ihnv1zucTl/tq6l
+MdOVbNpbUnGz3femcPbUBcm2VENsqfF05ctR+ZfOvJ7VQAeMt6dO9n0t7c8tq1/W
+Fr/l7t+3cMwT+8lw+fPAwQMfrhyak3N7oPZ2AH/8vn4wkXtyTu+kV/mfDs8tmWSd
+FrKvvuMSX4ycnIdb/Y2JQvXzxOS5/OyyQKpDvzuvO5lsGTyyOm/m0bqh6XnVM9r6
+H6e/33OtrndD76PotEVDRIIvpqzamNU6H62ozHsW6kidrc+NnrBaapfnVd9f19eQ
+Za4Jp2Zn0pmbUwXgxtqeZncWbe7uPtFf8Kpn6OLwjwNLsivd4/XCiq7zGXcyGsnA
+8evy8ebgt2OdgckTY/vTo7ErF6ov/wRA2D3L
+=evUn
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oliy
+
+==================================================================

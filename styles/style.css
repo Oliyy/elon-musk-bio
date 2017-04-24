@@ -1,0 +1,128 @@
+#disclaimer
+{
+  background-color:teal;
+  text-align:right;
+  margin-left: 85%;
+  margin-bottom: 2%;
+  border-radius:10%;
+  padding:1% 2% 1% 2%;
+  border-style:inset;
+  border-width: 15px;
+  border-color:rgb(0,51,51);
+}
+.unordered-parts
+{
+  font-size:30px;
+  color:white;
+  margin-left:10%;
+  margin-right:10%;
+ padding-bottom:3%;
+  padding-top:3%;
+}
+h1
+{ text-align:center; }
+h2
+{text-align:center;
+color:white;}
+#image3
+{
+  width:350px;
+}
+#image2 {
+  width:200px;
+}
+#image1 {
+width: 75%;
+  border-color:black;
+  border-width:15px;
+    border-style:solid;
+}
+.center-text
+{
+ text-align:center;
+}
+.elon-bio
+{
+ color:white;
+}
+.title {
+  font-size:70px;
+    color:black;
+
+}
+.quote-stuff {
+  color:purple;
+  font-size:40px;
+  border-style:none;
+  background-color:black;
+  margin: 2.5% 5% 5% 2.5%;
+}
+#background
+{background-color:black;
+border-color:blue;
+border-width:20px;
+border-style:solid;}
+#video-background {
+  background-color: red;
+    margin: 5% 15% 5% 15% ;
+  border-width: 20px;
+  border-color: blue;
+  border-style: solid;
+  border-radius: 20px;
+  padding:0% 5% 0% 5%;
+}
+#title-border
+{
+  background-color:blue;
+  border-color:black;
+  border-width:15px;
+  border-style:solid;
+  margin:3% 25% 2% 25%;
+}
+.fun-fact
+{
+  background-color:teal;
+  border-color: black;
+  border-style: solid;
+  border-width: 10px;
+}
+.fun-fact-css {
+  color:rgb(32,32,32);
+  font-size:40px;
+}
+#fun-fact-background{
+  background-color:rgb(204,153,255);
+  border-radius:20px;
+  border-width:10px;
+    border-style:dashed;
+  margin:0px 10px 0px 10px;
+}
+.survey-background
+{
+  background-color:rgb(102,255,255);
+  border-style:dotted;
+  border-width:20px;
+  border-color:rgb(0,0,51);
+  padding:2% 2% 2% 2%;
+  margin:2.5% 25% 2.5% 25%;
+}
+.caption-background{
+  background-color:rgb(0,102,102);
+  border-style:outset;
+  border-width: 20px;
+  border-color:rgb(0,76,153);
+  margin: 2% 20% 2% 20%;
+}
+#click, #wiki{
+  background-color:rgb(255,204,229);
+   padding: 2.5% 2.5% 2.5% 2.5%;
+    text-align: center;
+  border: solid 10px;
+font-size: 25px;
+  border-color: red;
+  margin-top:2.5%;
+}
+#wiki{
+   padding: 2.5%;
+    display: none;
+}
